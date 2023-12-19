@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terra secure", "Terra secure.csproj", "{5C35E0E9-5557-C1D1-0857-BFDE287EA541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terra secure.Editor", "Terra secure.Editor.csproj", "{D6A48B19-4FEA-1948-6416-71B7117792CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C35E0E9-5557-C1D1-0857-BFDE287EA541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C35E0E9-5557-C1D1-0857-BFDE287EA541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C35E0E9-5557-C1D1-0857-BFDE287EA541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C35E0E9-5557-C1D1-0857-BFDE287EA541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A48B19-4FEA-1948-6416-71B7117792CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A48B19-4FEA-1948-6416-71B7117792CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A48B19-4FEA-1948-6416-71B7117792CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A48B19-4FEA-1948-6416-71B7117792CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

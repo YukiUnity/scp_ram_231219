@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/Title.unity
+    guid: 165f6658eed9b7241b042d8e30fc3b61
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/Info.unity
+    guid: 89db4c1fd8f4156499ca7d0e968e5f62
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/StageSelect.unity
+    guid: df4431484fb927648a1c5aff2148edfb
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/Game/Stage_0_0.unity
+    guid: 54cfee6949c565a4992f5e6301f1e352
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/Game/Stage_1_1_prottype.unity
+    guid: 39a8eafcb2ac0b946af372b43371b453
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/MainStory0.unity
+    guid: 09734f732935c8e429d0752825dd16f3
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/MainStory1.unity
+    guid: 59f6ce232508fac4896f4ced65a67bc7
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/SubStory0.unity
+    guid: f4cf62b70a6711643a9f287b9c8ef84f
+  - enabled: 1
+    path: Assets/Trey_Assets/Level/StoryTable.unity
+    guid: e230d14e79f1dc047b753a86e3d943ef
+  m_configObjects: {}

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: cfd5b27096becdf4c87216f26343ea0b
+timeCreated: 1542012172
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _NoiseA: {fileID: 2800000, guid: b01097fdef6bfb640bc25b2f67666571, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
